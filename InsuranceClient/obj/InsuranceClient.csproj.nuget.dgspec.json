@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\10.2.6.27\\Hexa-FSD-Batch-4\\Kanchan\\Azure\\InsuranceClient\\InsuranceClient\\InsuranceClient.csproj": {}
+  },
+  "projects": {
+    "\\\\10.2.6.27\\Hexa-FSD-Batch-4\\Kanchan\\Azure\\InsuranceClient\\InsuranceClient\\InsuranceClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\10.2.6.27\\Hexa-FSD-Batch-4\\Kanchan\\Azure\\InsuranceClient\\InsuranceClient\\InsuranceClient.csproj",
+        "projectName": "InsuranceClient",
+        "projectPath": "\\\\10.2.6.27\\Hexa-FSD-Batch-4\\Kanchan\\Azure\\InsuranceClient\\InsuranceClient\\InsuranceClient.csproj",
+        "packagesPath": "C:\\Users\\r1m1nrao\\.nuget\\packages\\",
+        "outputPath": "\\\\10.2.6.27\\Hexa-FSD-Batch-4\\Kanchan\\Azure\\InsuranceClient\\InsuranceClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\r1m1nrao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
